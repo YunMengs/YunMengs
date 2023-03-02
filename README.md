@@ -7,6 +7,10 @@ I am from China.I hope to be friends with you.
 
 - 🌱 I’m fishing in troubled waters...
 
+
+| <a href="https://github.com/YunMengs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YunMengs&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/YunMengs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunMengs&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ## Community
 
 - [织梦行云的小站 (zmxy.icu)](https://zmxy.icu/)
@@ -33,5 +37,3 @@ I am from China.I hope to be friends with you.
 
 
 
-| <a href="https://github.com/YunMengs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YunMengs&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/YunMengs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunMengs&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
